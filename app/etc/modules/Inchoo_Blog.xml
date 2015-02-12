@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+Inchoo Blog Module
+Author: Zoran Salamun(zoran.salamun@inchoo.net)
+https://inchoo.net/
+-->
+<config>
+    <modules>
+        <Inchoo_Blog>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Inchoo_Blog>
+    </modules>
+</config>
